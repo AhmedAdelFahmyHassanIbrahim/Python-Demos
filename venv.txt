@@ -1,0 +1,10 @@
+how to create your virtual envirnoment
+==========================================
+
+1- install virtualenv globally by:
+	pip install virtualenv
+2- activating the virtual envirnoment
+	for CMD:
+		<folder_name>\Scripts\Activate.bat
+	for powershell:
+		..\<folder_name>\Scripts\Activate.ps1
